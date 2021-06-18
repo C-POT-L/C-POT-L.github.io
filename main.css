@@ -1,0 +1,9 @@
+body {
+    background:radial-gradient(circle farthest-corner at left bottom,skyBlue,Blue);
+    background-repeat: no-repeat;
+    margin: 0;
+    background-attachment: fixed;
+}
+
+
+
